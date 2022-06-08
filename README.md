@@ -19,3 +19,8 @@ Nuestro publico objetivo seran las personas que les interesen los videojuegos y 
 * https://www.venex.com.ar/ 👉 Elegimos esta por la presentacion de cada producto, donde se pueden ver sus caracteristicas y compatibilidad
 
 * https://www.compugarden.com.ar 👉 Elegimos esta por el diseño del carrito
+
+## Equipo de trabajo :heavy_check_mark:
+
+- **Emiliano Di Grigoli:** 
+*Miembro del equipo*. Trabajo en un banco y tengo un comercio familiar. Me gusta escuchar música en mis ratos libres, ir al cine, jugar al fútbol y siempre me gusta estar aprendiendo cosas nuevas, por eso me decidí a dar mi primer paso y entender y aplicar lo que hace un programador web. :call_me_hand:
