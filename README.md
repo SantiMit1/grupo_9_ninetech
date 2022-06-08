@@ -8,7 +8,7 @@ Vamos a ofrecer Hardware y perifericos de PC
 
 Nuestro publico objetivo seran las personas que les interesen los videojuegos y esten adentradas en el mundo de la computación
 
-## Paginas de referencia:
+## Paginas de referencia:       :mag_right:
 
 * https://redragon.es 👉 Elegimos esta pagina por el diseño de la landingpage
 
