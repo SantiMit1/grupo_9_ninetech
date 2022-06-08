@@ -25,3 +25,7 @@ Nuestro publico objetivo seran las personas que les interesen los videojuegos y 
 - **Emiliano Di Grigoli:** 
 
 *Miembro del equipo*. Trabajo en un banco y tengo un comercio familiar. Me gusta escuchar música en mis ratos libres, ir al cine, jugar al fútbol y siempre me gusta estar aprendiendo cosas nuevas, por eso me decidí a dar mi primer paso y entender y aplicar lo que hace un programador web. :call_me_hand:
+
+- **Josue Trujillo:** 
+
+Tengo 22 años, me gusta escuchar musica, los videojuegos, el cine y salir a pasear. Trabajo en un emprendimiento de ropa. Soy nuevo en la programacion y me intereso desde hace tiempo, tenia la curiosidad de como funcionaban las cosas desde el otro lado y como se desarrollaban, cada vez aprendo mas sobre este mundo y mi interes y curiosidad aumentan.
