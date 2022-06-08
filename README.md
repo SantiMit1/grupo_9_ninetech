@@ -28,4 +28,4 @@ Nuestro publico objetivo seran las personas que les interesen los videojuegos y 
 
 - **Josue Trujillo:** 
 
-Tengo 22 años, me gusta escuchar musica, los videojuegos, el cine y salir a pasear. Trabajo en un emprendimiento de ropa. Soy nuevo en la programacion y me intereso desde hace tiempo, tenia la curiosidad de como funcionaban las cosas desde el otro lado y como se desarrollaban, cada vez aprendo mas sobre este mundo y mi interes y curiosidad aumentan.
+*Miembro del equipo*. Tengo 22 años, me gusta escuchar musica, los videojuegos, el cine y salir a pasear. Trabajo en un emprendimiento de ropa. Soy nuevo en la programacion y me intereso desde hace tiempo, tenia la curiosidad de como funcionaban las cosas desde el otro lado y como se desarrollaban, cada vez aprendo mas sobre este mundo y mi interes y curiosidad aumentan.
