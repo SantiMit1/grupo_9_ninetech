@@ -29,3 +29,7 @@ Nuestro publico objetivo seran las personas que les interesen los videojuegos y 
 - **Josue Trujillo:** 
 
 *Miembro del equipo*. Tengo 22 años, me gusta escuchar musica, los videojuegos, el cine y salir a pasear. Trabajo en un emprendimiento de ropa. Soy nuevo en la programacion y me intereso desde hace tiempo, tenia la curiosidad de como funcionaban las cosas desde el otro lado y como se desarrollaban, cada vez aprendo mas sobre este mundo y mi interes y curiosidad aumentan.
+
+- **Santiago Mitidiero:** 
+
+*Miembro del equipo*. Tengo 18 años, me gusta hacer deporte, escuchar musica y jugar a los jueguitos. Soy nuevo en la programación pero siempre me interesó como funcionaba todo mas allá de lo que veia, por eso decidí entrar al curso para aprender un poco como funciona todo lo que siempre me genero curiosidad
