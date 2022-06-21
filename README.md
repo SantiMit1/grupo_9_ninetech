@@ -35,6 +35,7 @@ Tengo 22 años, me gusta escuchar musica, los videojuegos, el cine y salir a pas
 Tengo 18 años, me gusta hacer deporte, escuchar musica y jugar a los jueguitos. Soy nuevo en la programación pero siempre me interesó como funcionaba todo mas allá de lo que veia, por eso decidí entrar al curso para aprender un poco como funciona todo lo que siempre me genero curiosidad
 
 - **Tobias De Losa:**
+Tengo 19 años, me gusta jugar al futbol y escuchar musica. No tengo estudios previos acerca de la programacion, y decidi ingresar en este mundo, inestigué acerca de lo que trataba todo esto y me llamo mucho la atención.
 
 ## Trello:
 
